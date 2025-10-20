@@ -2,7 +2,6 @@
 
 ![Estado](https://img.shields.io/badge/Estado-Completado-green)
 ![Plataforma](https://img.shields.io/badge/Arduino-IDE-blue)
-![Licencia](https://img.shields.io/badge/Licencia-MIT-yellow)
 
 ---
 
@@ -312,11 +311,11 @@ El **ESP32** actúa como cliente que mide, muestra y publica datos, mientras que
 ## 👩‍💻 Autores
 
 **Yuliana Díaz**  
-Docente: [Nombre del profesor/a]  
+**Nicol Contreras**  
+**Brayan Macdera**  
+Docente: [Gonzalo Ricardo Novoa Fernandez]  
 Asignatura: *Computación en la Nube*  
-Institución: [Nombre de la universidad]
+Institución: [FULL]
 
 ---
 
-## 📜 Licencia
-Proyecto bajo licencia **MIT** — uso libre con atribución.
