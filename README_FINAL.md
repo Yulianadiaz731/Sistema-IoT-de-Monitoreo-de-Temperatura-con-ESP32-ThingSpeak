@@ -264,12 +264,19 @@ void loop() {
 ## 📸 Evidencias del Proyecto
 
 ### 🔧 Montaje en Protoboard
-![Montaje 1](WhatsApp%20Image%202025-10-20%20at%206.10.05%20PM.jpeg)
-![Montaje 2](WhatsApp%20Image%202025-10-20%20at%206.10.13%20PM.jpeg)
-![Montaje 3](WhatsApp%20Image%202025-10-20%20at%206.10.14%20PM.jpeg)
+![Montaje 1]
+![WhatsApp Image 2025-10-20 at 6 10 14 PM](https://github.com/user-attachments/assets/372c8b69-f788-4c0e-b8f3-98edb8d08e0a)
+
+![Montaje 2]
+![WhatsApp Image 2025-10-20 at 6 10 13 PM](https://github.com/user-attachments/assets/91d37508-dab3-46ab-b4fb-3687b907efdb)
+
+![Montaje 3]
+![WhatsApp Image 2025-10-20 at 6 10 05 PM](https://github.com/user-attachments/assets/32b04740-2035-4827-a0fd-7488b257d50b)
+
 
 ### 🌐 Resultados en ThingSpeak
-![Resultados](Captura%20de%20pantalla%202025-10-20%20165716.png)
+![Resultados]<img width="1478" height="909" alt="Captura de pantalla 2025-10-20 165716" src="https://github.com/user-attachments/assets/16706101-139e-4caf-ac11-65e9b203f71f" />
+
 
 > Los gráficos muestran el comportamiento dinámico de la **temperatura** y **humedad** en tiempo real.  
 > Los indicadores tipo “gauge” permiten visualizar de forma clara las variaciones de los valores medidos.
