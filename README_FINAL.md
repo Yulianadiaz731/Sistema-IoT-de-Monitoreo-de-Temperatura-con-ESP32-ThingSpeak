@@ -10,7 +10,6 @@
 Este proyecto implementa un **sistema IoT de monitoreo ambiental** usando una placa **ESP32**, un sensor **DHT22** y una pantalla **OLED (SPI)**.  
 El sistema mide temperatura y humedad en tiempo real, las muestra en el display OLED y las envía automáticamente a la nube mediante **ThingSpeak**, donde se visualizan en gráficos interactivos.  
 
-💡 Este desarrollo sigue la estructura profesional del proyecto [`iot-esp32-noise-monitor`](https://github.com/chalonov/iot-esp32-noise-monitor).
 
 ---
 
